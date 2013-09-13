@@ -50,7 +50,7 @@ end
 
 # To use debugger
 # gem 'debugger'
-gem 'jpmobile'
+#gem 'jpmobile'
 
 gem 'mail-iso-2022-jp'
 

@@ -1,0 +1,11 @@
+ja:
+  activemodel:
+    attributes:
+      form/faq:
+        last_name: 氏
+        first_name: 名
+        name: 氏名
+        email: メールアドレス
+        subject: 件名
+        content: 本文
+        agree: 利用目的

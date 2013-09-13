@@ -1,0 +1,97 @@
+<!--wrapper start-->
+<div id="wrapper">
+<div id="contents">
+	<div class="contents-section section-type1 marginB15">
+		<h2 class="contents-title title-type1"><span class="contents-title-Ltext">お問い合わせ</span></h2>
+			<div class="margin15">
+			
+				<div class="contents-section marginB10">
+					<p class="margin5">カスタマーサポートの業務時間を以下にご案内いたします。<br />
+						<strong class="fontL text-type5">【営業時間】月曜～金曜日 10：00～18：30</strong><br />
+						当日受信分のお問い合わせは翌営業日中までに一次回答いたします。<br />
+						諸事情により回答が遅れることがございますがご了承ください。<br />
+						なお、誠に勝手ながら土日祝祭日はサポート業務をお休みいたします。<br /><br />
+				</div>
+					<%= form_for(@faq_form, :url => '/faq/confirm') do |f| %>
+					<div class="contact_area_form table-column table-type1">
+						<table>
+							<tr>
+								<th>氏名</th>
+								<td>氏<%= f.text_field :last_name, :class => "name" %>名<%= f.text_field :first_name, :class => "name" %>
+									<small class="text-type5">
+										<%custom_error_messages(@faq_form, :last_name).each do |message|%>
+											<%= message%>
+										<%end%>
+										<%custom_error_messages(@faq_form, :first_name).each do |message|%>
+											<%= message%>
+										<%end%>
+									</small>
+								</td>
+							</tr>
+							<tr>
+								<th>メールアドレス</th>
+								<td>
+									<small>※フリーメールアドレスをご利用の場合、弊社からの回答メールが自動的に迷惑メールフォルダへ<br />
+										移動される場合がございますのでご注意ください。<br />
+										※ドメイン指定受信をご利用されている方は、「netmile.co.jp」からのメールを受信できるよう設定が必要です。
+									</small>
+									<%= f.email_field :email %><br />
+									<small class="text-type5">
+										<%custom_error_messages(@faq_form, :email).each do |message|%>
+											<%= message%>
+										<%end%>
+									</small>
+									<p>メールアドレスを再入力</p>
+									<%= f.email_field :email_confirmation %><br />
+									<small class="text-type5">
+										<%custom_error_messages(@faq_form, :email_confirmation).each do |message|%>
+											<%= message%>
+										<%end%>
+									</small>
+								</td>
+							</tr>
+							<tr>
+								<th>件名</th>
+								<td>
+									<%= f.text_field :subject %>
+									<small class="text-type5">
+										<%custom_error_messages(@faq_form, :subject).each do |message|%>
+											<%= message%>
+										<%end%>
+									</small>
+								</td>
+							</tr>
+							<tr>
+								<th>お問い合わせ内容</th>
+								<td>
+									<%= f.text_area :content %>
+									<small class="text-type5">
+										<%custom_error_messages(@faq_form, :content).each do |message|%>
+											<%= message%>
+										<%end%>
+									</small>
+								</td>
+							</tr>
+						</table>
+					</div>
+					<div class="contents-section section-type2 marginB10">
+						<h2 class="contents-title title-type2"><span class="contents-title-Ltext">利用目的</span></h2>
+							<div class="terms_area_warp">
+								<div class="terms_area">
+								</div>
+								<p class="terms_area_check"><%= f.check_box :agree %>上記にご同意いただいた上で、本ユーザーサポートを利用する。<br />
+									<small class="text-type5">
+										<%custom_error_messages(@faq_form, :agree).each do |message|%>
+											<%= message%>
+										<%end%>
+									</small>
+								</p>
+							</div>				
+					</div>
+				<div class="terms_area_btn search-form-submit"><%= f.submit :value => "確認する" %></div>
+				<%end%>
+			</div>
+	</div>
+</div>
+</div>
+<!--wrapper end-->

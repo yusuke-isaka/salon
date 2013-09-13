@@ -1,0 +1,54 @@
+<!--wrapper start-->
+<div id="wrapper">
+<div id="contents">
+	<div class="contents-section section-type1 marginB15">
+		<h2 class="contents-title title-type1"><span class="contents-title-Ltext">お問い合わせ</span></h2>
+			<div class="margin15">
+				<%= form_for(@faq_form, :url => '/faq/complete') do |f| %>
+					<div class="contact_area_form table-column table-type1">
+						<table>
+							<tr>
+								<th>氏名</th>
+								<td><%=@faq_form.last_name%>　<%=@faq_form.first_name%></td>
+							</tr>
+							<tr>
+								<th>メールアドレス</th>
+								<td><%=@faq_form.email%></td>
+							</tr>
+							<tr>
+								<th>件名</th>
+								<td><%=@faq_form.subject%></td>
+							</tr>
+							<tr>
+								<th>お問い合わせ内容</th>
+								<td><%=hbr @faq_form.content%></td>
+							</tr>
+						</table>
+					</div>
+					<%= f.hidden_field :first_name %>
+					<%= f.hidden_field :last_name %>
+					<%= f.hidden_field :email%>
+					<%= f.hidden_field :email_confirmation%>
+					<%= f.hidden_field :subject%>
+					<%= f.hidden_field :content%>
+					<%= f.hidden_field :agree%>
+					<%= f.hidden_field :flash_version%>
+				<div class="terms_area_btn search-form-submit"><input type="submit" value="送信する" /></div>
+				<%end%>
+				<%= form_for(@faq_form, :url => '/faq/back', :html => {:id => "back_form"}) do |f| %>
+					<%= f.hidden_field :first_name %>
+					<%= f.hidden_field :last_name %>
+					<%= f.hidden_field :email%>
+					<%= f.hidden_field :email_confirmation%>
+					<%= f.hidden_field :subject%>
+					<%= f.hidden_field :content%>
+					<%= f.hidden_field :agree%>
+					<ul class="btn-column1">
+						<li class="btn btn-type2 btnM btn-w200"><a href="javascript: $('#back_form').submit();" ><span class="btn-icon">前に戻る</span></a></li>
+					</ul>
+				<%end%>
+			</div>
+	</div>
+</div>
+</div>
+<!--wrapper end-->
