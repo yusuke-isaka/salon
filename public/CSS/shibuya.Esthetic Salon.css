@@ -1,0 +1,80 @@
+/* style.css*/
+
+
+ 
+#contents {
+    float: left;
+    width: 390px;
+} 
+
+.box1 {
+border: 1px solid #FF69B4;
+padding: 10px;
+color: #666;
+margin-bottom: 20px;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 20px;
+    border-left: 5px solid #ccc;
+    padding: 3px 0 3px 10px;
+    margin-bottom: 10px;
+}
+ 
+p {
+    margin-bottom: 14px;
+}  
+ 
+/* ul　画像付き投稿*/
+ul.box1 {
+    margin-bottom: 15px;
+}
+
+/*画像が左にくるようにする*/
+ul.box1>li>p>img {
+    float: left;
+}
+
+ul.box1>li>p {
+    font-size: 13px;
+}
+
+
+#sidebar {
+    float: right;
+    width: 390px;
+}
+
+
+
+/*--- リンクの設定 ---*/
+.myLink{
+display:block;
+background: #fff;
+}
+
+/*---myLink内の画像---*/
+.myLink img{
+opacity:1.0;
+filter: alpha(opacity=100);
+border: none;
+}
+.myLink:hover img{
+opacity: 0.5;
+filre:alpha(opacity=50);
+}
+
+
+
+/* ul　キャプション付き画像　画像の周りにきれいに枠線をつけられる　１４項*/
+/*　バッジをつける　＝　１５項*/
+/*　アイコン付きメニュー　＝　１６項*/
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
