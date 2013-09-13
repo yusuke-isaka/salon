@@ -63,5 +63,8 @@ module Salon
 
     # Version of your assets, change this if you want to expire all your assets
     config.assets.version = '1.0'
+    
+    # To stop SMTP over SSL
+    config.action_mailer.smtp_settings = { :enable_starttls_auto => false }
   end
 end
