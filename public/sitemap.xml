@@ -5,7 +5,7 @@
 <url>
   <loc>http://www.bijonary.com/</loc>
   <priority>1.0</priority>
-  <lastmod>2013-09-26T13:47:26+09:00</lastmod>
+  <lastmod>2013-09-27T19:01:01+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
@@ -23,7 +23,7 @@
 <url>
   <loc>http://www.bijonary.com/nav_QA.html</loc>
   <priority>0.8</priority>
-  <lastmod>2013-09-25T10:39:36+09:00</lastmod>
+  <lastmod>2013-09-27T11:29:43+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
@@ -66,6 +66,18 @@
   <loc>http://www.bijonary.com/news6.html</loc>
   <priority>0.8</priority>
   <lastmod>2013-09-26T13:47:26+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.bijonary.com/news7.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2013-09-27T18:20:20+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.bijonary.com/news8.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2013-09-27T19:01:01+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
@@ -173,61 +185,67 @@
 <url>
   <loc>http://www.bijonary.com/nav_QA1.html</loc>
   <priority>0.7</priority>
-  <lastmod>2013-09-22T21:54:06+09:00</lastmod>
+  <lastmod>2013-09-27T11:29:43+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.bijonary.com/nav_QA2.html</loc>
   <priority>0.7</priority>
-  <lastmod>2013-09-22T21:54:06+09:00</lastmod>
+  <lastmod>2013-09-27T11:29:43+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.bijonary.com/nav_QA3.html</loc>
   <priority>0.7</priority>
-  <lastmod>2013-09-22T21:54:06+09:00</lastmod>
+  <lastmod>2013-09-27T11:29:43+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.bijonary.com/nav_QA4.html</loc>
   <priority>0.7</priority>
-  <lastmod>2013-09-22T21:54:06+09:00</lastmod>
+  <lastmod>2013-09-27T11:29:43+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.bijonary.com/nav_QA5.html</loc>
   <priority>0.7</priority>
-  <lastmod>2013-09-22T21:54:06+09:00</lastmod>
+  <lastmod>2013-09-27T11:29:43+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.bijonary.com/nav_QA6.html</loc>
   <priority>0.7</priority>
-  <lastmod>2013-09-22T21:54:06+09:00</lastmod>
+  <lastmod>2013-09-27T11:29:43+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.bijonary.com/nav_QA7.html</loc>
   <priority>0.7</priority>
-  <lastmod>2013-09-22T21:54:06+09:00</lastmod>
+  <lastmod>2013-09-27T11:29:43+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.bijonary.com/nav_QA8.html</loc>
   <priority>0.7</priority>
-  <lastmod>2013-09-23T15:40:04+09:00</lastmod>
+  <lastmod>2013-09-27T11:29:43+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.bijonary.com/nav_QA9.html</loc>
   <priority>0.7</priority>
-  <lastmod>2013-09-24T20:09:47+09:00</lastmod>
+  <lastmod>2013-09-27T11:29:43+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.bijonary.com/nav_QA10.html</loc>
   <priority>0.7</priority>
-  <lastmod>2013-09-25T10:39:36+09:00</lastmod>
+  <lastmod>2013-09-27T11:29:43+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.bijonary.com/nav_QA11.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2013-09-27T11:08:22+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
@@ -251,7 +269,7 @@
 <url>
   <loc>http://www.bijonary.com/index.html</loc>
   <priority>0.6</priority>
-  <lastmod>2013-09-26T13:47:26+09:00</lastmod>
+  <lastmod>2013-09-27T19:01:01+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 
