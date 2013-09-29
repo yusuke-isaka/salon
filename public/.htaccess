@@ -1,4 +1,3 @@
-Options FollowSymLinks
 RewriteEngine on
 RewriteCond %{THE_REQUEST} ^.*/index.html
 RewriteRule ^(.*)index.html$ http://www.bijonary.com/$1 [R=301,L]
