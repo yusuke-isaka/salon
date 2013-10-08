@@ -5,7 +5,7 @@
 <url>
   <loc>http://www.bijonary.com/</loc>
   <priority>1.0</priority>
-  <lastmod>2013-10-03T22:01:13+09:00</lastmod>
+  <lastmod>2013-10-07T20:10:26+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
@@ -17,19 +17,91 @@
 <url>
   <loc>http://www.bijonary.com/nav_tokushu.html</loc>
   <priority>0.8</priority>
-  <lastmod>2013-10-03T22:01:13+09:00</lastmod>
+  <lastmod>2013-10-05T21:33:22+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.bijonary.com/nav_QA.html</loc>
   <priority>0.8</priority>
-  <lastmod>2013-10-03T22:01:13+09:00</lastmod>
+  <lastmod>2013-10-06T13:53:26+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.bijonary.com/nav_contact.html</loc>
   <priority>0.8</priority>
   <lastmod>2013-10-02T23:40:06+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.bijonary.com/nav_tokushu/shibuya-datsumo-salon1.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2013-10-05T21:33:22+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.bijonary.com/nav_tokushu/shibuya-datsumo-salon2.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2013-10-03T22:01:13+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.bijonary.com/nav_tokushu/shibuya-datsumo-salon3.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2013-10-03T22:01:13+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.bijonary.com/datsumo-Este-salon-ranking/salon-jesthetic.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2013-10-04T21:35:55+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.bijonary.com/taikendan-datsumo-Este/jesthetic-taikendan-datsumo.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2013-10-07T20:10:26+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.bijonary.com/datsumo-Este-salon-ranking/salon-misspari.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2013-10-07T20:10:26+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.bijonary.com/datsumo-Este-salon-ranking/salon-parler.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2013-10-07T20:10:26+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.bijonary.com/datsumo-Este-salon-ranking/salon-slimbeaty.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2013-10-07T20:10:26+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.bijonary.com/datsumo-Este-salon-ranking/salon-sizelabo.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2013-10-07T20:10:26+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.bijonary.com/datsumo-Este-salon-ranking/salon-piubello.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2013-10-07T20:10:26+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.bijonary.com/datsumo-Este-salon-ranking/salon-takanoyuri.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2013-10-07T20:10:26+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.bijonary.com/datsumo-Este-salon-ranking/salon-e-laby.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2013-10-07T20:10:26+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
@@ -51,81 +123,15 @@
   <changefreq>daily</changefreq>
 </url>
 <url>
+  <loc>http://www.bijonary.com/column-list/column10.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2013-10-05T23:40:13+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
   <loc>http://www.bijonary.com/column-list.html</loc>
   <priority>0.8</priority>
-  <lastmod>2013-10-02T23:40:06+09:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://www.bijonary.com/nav_tokushu/shibuya-datsumo-salon1.html</loc>
-  <priority>0.8</priority>
-  <lastmod>2013-10-03T22:01:13+09:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://www.bijonary.com/nav_tokushu/shibuya-datsumo-salon2.html</loc>
-  <priority>0.8</priority>
-  <lastmod>2013-10-03T22:01:13+09:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://www.bijonary.com/nav_tokushu/shibuya-datsumo-salon3.html</loc>
-  <priority>0.8</priority>
-  <lastmod>2013-10-03T22:01:13+09:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://www.bijonary.com/datsumo-Este-salon-ranking/salon-jesthetic.html</loc>
-  <priority>0.8</priority>
-  <lastmod>2013-10-02T23:40:06+09:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://www.bijonary.com/taikendan-datsumo-Este/jesthetic-taikendan-datsumo.html</loc>
-  <priority>0.8</priority>
-  <lastmod>2013-10-02T23:40:06+09:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://www.bijonary.com/datsumo-Este-salon-ranking/salon-misspari.html</loc>
-  <priority>0.8</priority>
-  <lastmod>2013-10-02T23:40:06+09:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://www.bijonary.com/datsumo-Este-salon-ranking/salon-parler.html</loc>
-  <priority>0.8</priority>
-  <lastmod>2013-10-02T23:40:06+09:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://www.bijonary.com/datsumo-Este-salon-ranking/salon-slimbeaty.html</loc>
-  <priority>0.8</priority>
-  <lastmod>2013-10-02T23:40:06+09:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://www.bijonary.com/datsumo-Este-salon-ranking/salon-sizelabo.html</loc>
-  <priority>0.8</priority>
-  <lastmod>2013-10-02T23:40:06+09:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://www.bijonary.com/datsumo-Este-salon-ranking/salon-piubello.html</loc>
-  <priority>0.8</priority>
-  <lastmod>2013-10-02T23:40:06+09:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://www.bijonary.com/datsumo-Este-salon-ranking/salon-takanoyuri.html</loc>
-  <priority>0.8</priority>
-  <lastmod>2013-10-02T23:40:06+09:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://www.bijonary.com/datsumo-Este-salon-ranking/salon-e-laby.html</loc>
-  <priority>0.8</priority>
-  <lastmod>2013-10-02T23:40:06+09:00</lastmod>
+  <lastmod>2013-10-05T23:40:13+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
@@ -143,13 +149,13 @@
 <url>
   <loc>http://www.bijonary.com/taikendan-datsumo-Este/myuze-taikendan-datsumo.html</loc>
   <priority>0.7</priority>
-  <lastmod>2013-10-02T23:40:06+09:00</lastmod>
+  <lastmod>2013-10-07T20:10:26+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.bijonary.com/taikendan-datsumo-Este/tbc-taikendan-Este.html</loc>
   <priority>0.7</priority>
-  <lastmod>2013-10-02T23:40:06+09:00</lastmod>
+  <lastmod>2013-10-07T20:10:26+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
@@ -161,19 +167,13 @@
 <url>
   <loc>http://www.bijonary.com/nav_tokushu/shibuya-datsumo-salon5.html</loc>
   <priority>0.7</priority>
-  <lastmod>2013-10-03T22:01:13+09:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://www.bijonary.com/nav_tokushu/myuze-shibuya-datsumo.html</loc>
-  <priority>0.7</priority>
-  <lastmod>2013-10-03T22:01:13+09:00</lastmod>
+  <lastmod>2013-10-05T21:33:22+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.bijonary.com/nav_tokushu/datsumolabo-shibuya.html</loc>
   <priority>0.7</priority>
-  <lastmod>2013-10-03T22:01:13+09:00</lastmod>
+  <lastmod>2013-10-05T21:33:22+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
@@ -219,69 +219,81 @@
   <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://www.bijonary.com/nav_QA/nav_QA1.html</loc>
+  <loc>http://www.bijonary.com/nav_tokushu/myuze-shibuya-datsumo.html</loc>
   <priority>0.7</priority>
   <lastmod>2013-10-03T22:01:13+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.bijonary.com/nav_QA/nav_QA1.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2013-10-07T20:10:26+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.bijonary.com/nav_QA/nav_QA2.html</loc>
   <priority>0.7</priority>
-  <lastmod>2013-10-03T22:01:13+09:00</lastmod>
+  <lastmod>2013-10-07T20:10:26+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.bijonary.com/nav_QA/nav_QA3.html</loc>
   <priority>0.7</priority>
-  <lastmod>2013-10-03T22:01:13+09:00</lastmod>
+  <lastmod>2013-10-07T20:10:26+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.bijonary.com/nav_QA/nav_QA4.html</loc>
   <priority>0.7</priority>
-  <lastmod>2013-10-03T22:01:13+09:00</lastmod>
+  <lastmod>2013-10-07T20:10:26+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.bijonary.com/nav_QA/nav_QA5.html</loc>
   <priority>0.7</priority>
-  <lastmod>2013-10-03T22:01:13+09:00</lastmod>
+  <lastmod>2013-10-07T20:10:26+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.bijonary.com/nav_QA/nav_QA6.html</loc>
   <priority>0.7</priority>
-  <lastmod>2013-10-03T22:01:13+09:00</lastmod>
+  <lastmod>2013-10-07T20:10:26+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.bijonary.com/nav_QA/nav_QA7.html</loc>
   <priority>0.7</priority>
-  <lastmod>2013-10-03T22:01:13+09:00</lastmod>
+  <lastmod>2013-10-07T20:10:26+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.bijonary.com/nav_QA/nav_QA8.html</loc>
   <priority>0.7</priority>
-  <lastmod>2013-10-03T22:01:13+09:00</lastmod>
+  <lastmod>2013-10-07T20:10:26+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.bijonary.com/nav_QA/nav_QA9.html</loc>
   <priority>0.7</priority>
-  <lastmod>2013-10-03T22:01:13+09:00</lastmod>
+  <lastmod>2013-10-07T20:10:26+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://www.bijonary.com/nav_QA/nav_QA11.html</loc>
+  <loc>http://www.bijonary.com/nav_QA/nav_QA10.html</loc>
   <priority>0.7</priority>
-  <lastmod>2013-10-03T22:01:13+09:00</lastmod>
+  <lastmod>2013-10-07T20:10:26+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.bijonary.com/nav_QA/nav_QA12.html</loc>
   <priority>0.7</priority>
-  <lastmod>2013-10-03T22:01:13+09:00</lastmod>
+  <lastmod>2013-10-07T20:10:26+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.bijonary.com/nav_QA/nav_QA13.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2013-10-07T20:10:26+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
@@ -299,7 +311,7 @@
 <url>
   <loc>http://www.bijonary.com/column-list/column5.html</loc>
   <priority>0.7</priority>
-  <lastmod>2013-10-02T23:40:06+09:00</lastmod>
+  <lastmod>2013-10-07T20:10:26+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
