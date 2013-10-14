@@ -59,6 +59,12 @@ ul.box>li>img {
     float: left;
 }
 
+/*画像が左にくるようにする*/
+ul.box1>li>img {
+    float: left;
+}
+
+
 ul.box>li>p {
     font-size: 13px;
 }
