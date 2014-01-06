@@ -5,7 +5,7 @@
 <url>
   <loc>http://www.bijonary.com/</loc>
   <priority>1.0</priority>
-  <lastmod>2013-11-21T22:08:24+09:00</lastmod>
+  <lastmod>2013-12-31T17:15:57+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
@@ -17,13 +17,13 @@
 <url>
   <loc>http://www.bijonary.com/nav_tokushu.html</loc>
   <priority>0.8</priority>
-  <lastmod>2013-11-11T20:01:53+09:00</lastmod>
+  <lastmod>2014-01-04T13:23:07+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.bijonary.com/nav_QA.html</loc>
   <priority>0.8</priority>
-  <lastmod>2013-10-11T21:44:06+09:00</lastmod>
+  <lastmod>2013-12-30T17:18:19+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
@@ -167,7 +167,7 @@
 <url>
   <loc>http://www.bijonary.com/nav_tokushu/shibuya-datsumo-salon4.html</loc>
   <priority>0.7</priority>
-  <lastmod>2013-11-27T19:31:41+09:00</lastmod>
+  <lastmod>2014-01-05T14:28:48+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
@@ -221,49 +221,49 @@
 <url>
   <loc>http://www.bijonary.com/nav_tokushu/mens-tbc-shibuya.html</loc>
   <priority>0.7</priority>
-  <lastmod>2013-11-10T11:51:45+09:00</lastmod>
+  <lastmod>2014-01-04T13:23:07+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.bijonary.com/nav_tokushu/myuze-shibuya-datsumo.html</loc>
   <priority>0.7</priority>
-  <lastmod>2013-11-11T20:01:53+09:00</lastmod>
+  <lastmod>2014-01-03T14:28:49+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.bijonary.com/nav_QA/nav_QA1.html</loc>
   <priority>0.7</priority>
-  <lastmod>2013-10-24T20:14:47+09:00</lastmod>
+  <lastmod>2013-12-26T21:45:57+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.bijonary.com/nav_QA/nav_QA2.html</loc>
   <priority>0.7</priority>
-  <lastmod>2013-10-25T20:13:41+09:00</lastmod>
+  <lastmod>2013-12-26T21:45:57+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.bijonary.com/nav_QA/nav_QA3.html</loc>
   <priority>0.7</priority>
-  <lastmod>2013-12-10T21:28:15+09:00</lastmod>
+  <lastmod>2013-12-26T21:45:57+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.bijonary.com/nav_QA/nav_QA4.html</loc>
   <priority>0.7</priority>
-  <lastmod>2013-12-12T18:47:32+09:00</lastmod>
+  <lastmod>2013-12-26T21:45:57+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.bijonary.com/nav_QA/nav_QA5.html</loc>
   <priority>0.7</priority>
-  <lastmod>2013-10-16T21:45:16+09:00</lastmod>
+  <lastmod>2013-12-26T21:45:57+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.bijonary.com/nav_QA/nav_QA6.html</loc>
   <priority>0.7</priority>
-  <lastmod>2013-10-26T17:35:51+09:00</lastmod>
+  <lastmod>2013-12-26T21:45:57+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
@@ -287,19 +287,25 @@
 <url>
   <loc>http://www.bijonary.com/nav_QA/nav_QA10.html</loc>
   <priority>0.7</priority>
-  <lastmod>2013-10-16T21:45:16+09:00</lastmod>
+  <lastmod>2013-12-16T20:15:40+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.bijonary.com/nav_QA/nav_QA11.html</loc>
   <priority>0.7</priority>
-  <lastmod>2013-10-16T21:45:16+09:00</lastmod>
+  <lastmod>2013-12-17T20:02:55+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.bijonary.com/nav_QA/nav_QA12.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2013-12-19T21:11:28+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://www.bijonary.com/nav_QA/nav_QA13.html</loc>
   <priority>0.7</priority>
-  <lastmod>2013-10-16T21:45:16+09:00</lastmod>
+  <lastmod>2013-12-19T21:11:28+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
@@ -315,6 +321,12 @@
   <changefreq>daily</changefreq>
 </url>
 <url>
+  <loc>http://www.bijonary.com/column-list/column5.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2013-12-02T21:12:31+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
   <loc>http://www.bijonary.com/column-list/column6.html</loc>
   <priority>0.7</priority>
   <lastmod>2013-12-03T21:14:46+09:00</lastmod>
@@ -324,12 +336,6 @@
   <loc>http://www.bijonary.com/column-list/column7.html</loc>
   <priority>0.7</priority>
   <lastmod>2013-12-03T21:14:46+09:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://www.bijonary.com/column-list/column8.html</loc>
-  <priority>0.7</priority>
-  <lastmod>2013-12-04T18:57:45+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
@@ -353,7 +359,7 @@
 <url>
   <loc>http://www.bijonary.com/column-list/column13.html</loc>
   <priority>0.7</priority>
-  <lastmod>2013-12-14T19:18:17+09:00</lastmod>
+  <lastmod>2013-12-15T20:13:29+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 
